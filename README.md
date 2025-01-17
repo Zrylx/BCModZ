@@ -51,7 +51,7 @@ BCModZ works by **directly modifying** the ```playerAddtributes.json``` file, wh
 Contributions are welcome! Fork this repository, make your changes, and submit a pull request to help improve BCModZ.
 
 ### 🟣 **License**
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. This means that you are free to use, modify, and distribute this software under the terms of the GPL-3.0. However, **any modifications or derived works must also be licensed under the same GPL-3.0 license and include the source code**. For more details, please refer to the LICENSE file. 
+This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](https://github.com/Zrylx/BCModZ?tab=GPL-3.0-1-ov-file#readme). This means that you are free to use, modify, and distribute this software under the terms of the GPL-3.0. However, **any modifications or derived works must also be licensed under the same GPL-3.0 license and include the source code**. For more details, please refer to the [LICENSE](https://github.com/Zrylx/BCModZ?tab=GPL-3.0-1-ov-file#readme) file. 
 
 ### 🟣 **Donate**
 I'm a solo profit-free developer creating softwares for completely free. If you would like to support me, any donations would be highly appreciated! 💜
