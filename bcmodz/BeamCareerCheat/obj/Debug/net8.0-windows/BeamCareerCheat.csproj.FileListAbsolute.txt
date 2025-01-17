@@ -1,0 +1,63 @@
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.exe
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\Img\BCModZ logo (white).png
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.deps.json
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.runtimeconfig.json
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.pdb
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignColors.pdb
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.pdb
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.xml
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_Content.g.cs
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_MarkupCompile.cache
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_MarkupCompile.lref
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\App.baml
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.g.resources
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.AssemblyInfo.cs
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCare.78C6B6C5.Up2Date
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\refint\BeamCareerCheat.dll
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.pdb
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.genruntimeconfig.cache
+C:\Users\olive\source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\ref\BeamCareerCheat.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.exe
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\Img\BCModZ logo (white).png
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.deps.json
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.runtimeconfig.json
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.pdb
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignColors.pdb
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.pdb
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.xml
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.csproj.AssemblyReference.cache
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\App.g.cs
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_Content.g.cs
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_MarkupCompile.cache
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat_MarkupCompile.lref
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\App.baml
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.g.resources
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.AssemblyInfoInputs.cache
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.AssemblyInfo.cs
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.csproj.CoreCompileInputs.cache
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCare.78C6B6C5.Up2Date
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\refint\BeamCareerCheat.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.pdb
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\BeamCareerCheat.genruntimeconfig.cache
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\obj\Debug\net8.0-windows\ref\BeamCareerCheat.dll
+D:\2024 PC Backup No 2\Source\repos\BCModZ\BeamCareerCheat\bin\Debug\net8.0-windows\BeamCareerCheat.dll.config
