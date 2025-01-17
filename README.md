@@ -47,13 +47,13 @@ BCModZ works by **directly modifying** the ```playerAddtributes.json``` file, wh
 <img src="https://i.imgur.com/0u9lPSq.jpg">
 </div>
 
-### 🟣**Contributing**
+### 🟣 **Contributing**
 Contributions are welcome! Fork this repository, make your changes, and submit a pull request to help improve BCModZ.
 
 ### 🟣 **License**
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. This means that you are free to use, modify, and distribute this software under the terms of the GPL-3.0. However, **any modifications or derived works must also be licensed under the same GPL-3.0 license and include the source code**. For more details, please refer to the LICENSE file. 
 
-### 🟣**Donate**
+### 🟣 **Donate**
 I'm a solo profit-free developer creating softwares for completely free. If you would like to support me, any donations would be highly appreciated! 💜
 <div align="center">
 	<a href="https://buymeacoffee.com/zrylx">
