@@ -6,13 +6,13 @@
 
 
 <p align="center">
-<a href="#key-features">Key Features</a> - 
-<a href = "#getting-started">Getting Started</a> -
-<a href = "#how-it-works">How It Works</a> -
-<a href = "#software-design">Software Design</a> -
-<a href = "#contributing">Contributing</a> -
-<a href = "#license">License</a> -
-<a href = "#donate">Donate</a>
+<a href="#-key-features">Key Features</a> - 
+<a href = "#-getting-started">Getting Started</a> -
+<a href = "#-how-it-works">How It Works</a> -
+<a href = "#-software-design">Software Design</a> -
+<a href = "#-contributing">Contributing</a> -
+<a href = "#-license">License</a> -
+<a href = "#-donate">Donate</a>
 </p>
 
 <p align=center>🎮<i><b>BeamNG.drive Career Mode Modifier</b></i></p>
