@@ -21,8 +21,6 @@
 	<img src="https://img.shields.io/github/stars/zrylx/BCModZ"/>
 </div>
 
-[![HitCount](https://hits.dwyl.com/Zrylx/BCModZ.svg?style=flat-square)](http://hits.dwyl.com/Zrylx/BCModZ)
-
 <p align=center>🎮<i><b>BeamNG.drive Career Mode Modifier</b></i></p>
 
 **BCModZ** is a desktop tool designed for BeamNG.drive players to modify career mode values, such as **money**, **XP**, and **vouchers**. Since career mode is single-player, using BCModZ is **safe**, **ethical**, and **ban-free**. If you need any help with the program, please feel free to [DM me on Discord](https://discord.com/users/666942198214033430) and send me your log file. 
