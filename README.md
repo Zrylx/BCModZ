@@ -21,6 +21,7 @@
 	<img src="https://img.shields.io/github/stars/zrylx/BCModZ"/>
 </div>
 
+[![HitCount](https://hits.dwyl.com/Zrylx/BCModZ.svg?style=flat-square)](http://hits.dwyl.com/Zrylx/BCModZ)
 
 <p align=center>🎮<i><b>BeamNG.drive Career Mode Modifier</b></i></p>
 
