@@ -17,27 +17,22 @@ namespace BeamCareerCheat
 
         private readonly Dictionary<string, string> optionMappings = new Dictionary<string, string>
         {
-            // star ones not working at the moment maybe add them in future update
+            // limited to changing xp values only at the moment (apart from money and vouchers) - hoping to expand on this in the future
+
             { "Money", "money" },
+            { "Vouchers", "vouchers" },
 
-            { "Labourer XP", "labourer" },
-            { "Cargo Delivery XP", "delivery" },
-            { "Car Jockey XP", "vehicleDelivery" },
+            { "Logistics XP", "logistics" },
+            { "Cargo Delivery XP", "logistics-delivery" },
+            { "Car Jockey XP", "logistics-vehicleDelivery" },
 
-            { "Adventurer XP", "adventurer" },
-            //{ "Mini Games Stars", "miniGames" },
+            { "Freestyle XP", "freestyle" },
 
-            { "Specialized XP", "specialized" },
-            //{ "Pursuit Stars", "police" },
-            //{ "Evasion Stars", "criminal" },
+            { "BMRA XP", "bmra" },
 
-            { "Motorsports XP", "motorsport" },
-            //{ "Apex Racing Stars", "apexRacing" },
-            //{ "Rock Crawling Stars", "crawl" },
-            //{ "Drifting Stars", "drift" },
-
-            { "BeamXP", "beamXP" },
-            { "Vouchers", "vouchers" }
+            { "APM XP", "apm" },
+            { "Motorsports XP", "apm-motorsport" },
+            { "Commercial XP", "apm-commercial" }
         };
 
 

@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "vKmXagTkxYA=",
+  "dgSpecHash": "YJDAQZ8T5y8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
+  "projectFilePath": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\olive\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.win-x64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }

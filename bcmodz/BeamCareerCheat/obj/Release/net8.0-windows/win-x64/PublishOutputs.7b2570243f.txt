@@ -1,0 +1,11 @@
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\BCModZ.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\BCModZ.dll.config
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\PenImc_cor3.dll
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\PresentationNative_cor3.dll
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\vcruntime140_cor3.dll
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\wpfgfx_cor3.dll
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\MaterialDesignColors.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\MaterialDesignThemes.Wpf.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\MaterialDesignThemes.Wpf.xml
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\publish\win-x64\BCModZ.exe

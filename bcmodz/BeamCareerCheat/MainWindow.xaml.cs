@@ -11,7 +11,6 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
 using System.Windows.Media.Animation;
 using Microsoft.VisualBasic.FileIO;
 using System.Text.RegularExpressions;
@@ -26,10 +25,11 @@ namespace BeamCareerCheat
     public partial class MainWindow : Window
     {
         private readonly PaletteHelper paletteHelper = new PaletteHelper();
-        private const string version = "1.0";
+        private const string version = "1.1";
         public MainWindow()
         {
             InitializeComponent();
+
 
             Theme theme = new();
             theme.SetDarkTheme();
@@ -41,6 +41,48 @@ namespace BeamCareerCheat
             if (Properties.Settings.Default.IsFirstRun)
             {
                 logger.log("User ran the application for the first time");
+                try
+                {
+                    // attempt to create shortcut in startmenu folder
+                    string exePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "BCModZ.exe");
+                    string startMenuPath = Path.Combine(
+                        Environment.GetFolderPath(Environment.SpecialFolder.StartMenu),
+                        "Programs", "BCModZ.lnk"
+                    );
+
+                    logger.log("Attempting to create Start Menu shortcut...");
+
+                    if (!System.IO.File.Exists(startMenuPath))
+                    {
+                        string psScript = $@"
+                        $WshShell = New-Object -ComObject WScript.Shell
+                        $Shortcut = $WshShell.CreateShortcut('{startMenuPath}')
+                        $Shortcut.TargetPath = '{exePath}'
+                        $Shortcut.WorkingDirectory = '{Path.GetDirectoryName(exePath)}'
+                        $Shortcut.Save()";
+
+                        // execute PowerShell script to create shortcut
+                        var processStartInfo = new ProcessStartInfo("powershell.exe", psScript)
+                        {
+                            RedirectStandardOutput = true,
+                            UseShellExecute = false,
+                            CreateNoWindow = true
+                        };
+                        var process = Process.Start(processStartInfo);
+                        process.WaitForExit();
+
+                        logger.log($"Shortcut created successfully at: {startMenuPath}");
+                    }
+                    else
+                    {
+                        logger.log("Shortcut already exists, skipping creation.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    logger.log($"Error creating Start Menu shortcut: {ex.Message}");
+                }
+
                 MessageBox.Show("IMPORTANT: Before making any modifications to career mode, please back" +
                     " up your career profile folder. A tutorial on how to do this is available on the Zrylx " +
                     "Solutions Discord server and YouTube channel. Please note that BCModZ is designed to " +

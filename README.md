@@ -9,6 +9,7 @@
 <a href="#-key-features">Key Features</a> - 
 <a href = "#-getting-started">Getting Started</a> -
 <a href = "#-how-it-works">How It Works</a> -
+<a href = "#-common-problem-fix">Common Problem Fix</a> -
 <a href = "#-software-design">Software Design</a> -
 <a href = "#-contributing">Contributing</a> -
 <a href = "#-license">License</a> -
@@ -23,7 +24,7 @@
 
 <p align=center>🎮<i><b>BeamNG.drive Career Mode Modifier</b></i></p>
 
-**BCModZ** is a desktop tool designed for BeamNG.drive players to modify career mode values, such as **money**, **XP**, and **vouchers**. Since career mode is single-player, using BCModZ is **safe**, **ethical**, and **ban-free**. If you need any help with the program, please feel free to [DM me on Discord](https://discord.com/users/666942198214033430) and send me your log file. 
+**BCModZ** is a desktop tool designed for BeamNG.drive players to modify career mode values, such as **money**, **XP**, and **vouchers**. Since career mode is single-player, using BCModZ is **safe**, **ethical**, and **ban-free**. If you need any help with the program, please feel free to [create a ticket in the Discord server](https://discord.gg/Zm9JzKvzyg) and send me your log file. 
 
 ---
 
@@ -47,6 +48,14 @@
  
 ### 🟣 **How It Works**
 BCModZ works by **directly modifying** the ```playerAddtributes.json``` file, which is where BeamNG.drive stores all your career mode progress. This file contains information about things like your money, XP, and vouchers. If something goes wrong during the modification process, BCModZ will notify you and always log the issue so you know what happened.
+
+### 🟣 **Common Problem Fix**
+A very common issue I have seen users mentioning is that when you use **RLS Career Mode Overhaul**, your money value is reverted upon loading the career profile. To fix this, please do the following:
+1. Open BeamNG.drive and load up your career profile.
+2. Press the tilde key (`/~) - it is located right under the esc key. This should bring up the game console. 
+3. Paste in this command: ```career_modules_playerAttributes.addAttributes({money=1000}, {tags={"gameplay"}, label="Magic"}) ```. This will add 1000 cash to your career profile. 
+4. After doing so, according to users in the Discord server, BCModZ works with RLS Career Mode Overhaul. 
+5. If this works for you please let me know in the [server](https://discord.gg/Zm9JzKvzyg)!
 
 ### 🟣 **Software Design**
 <div align="center">

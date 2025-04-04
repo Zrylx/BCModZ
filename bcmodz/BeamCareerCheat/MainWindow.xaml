@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:BeamCareerCheat"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BCModZ Version 1.0" Height="232" Width="452"
+        Title="BCModZ Version 1.1" Height="232" Width="452"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
         Background="{x:Null}"
         AllowsTransparency="True"
@@ -135,20 +135,19 @@
                         </ComboBox.Effect>
 
                         <ComboBoxItem IsSelected="True">Money</ComboBoxItem>
+                        <ComboBoxItem>Vouchers</ComboBoxItem>
 
-                        <ComboBoxItem>Labourer XP</ComboBoxItem>
+                        <ComboBoxItem>APM XP</ComboBoxItem>
+                        <ComboBoxItem>Motorsports XP</ComboBoxItem>
+                        <ComboBoxItem>Commercial XP</ComboBoxItem>
+
+                        <ComboBoxItem>BMRA XP</ComboBoxItem>
+
+                        <ComboBoxItem>Logistics XP</ComboBoxItem>
                         <ComboBoxItem>Cargo Delivery XP</ComboBoxItem>
                         <ComboBoxItem>Car Jockey XP</ComboBoxItem>
 
-                        <ComboBoxItem>Adventurer XP</ComboBoxItem>
-
-                        <ComboBoxItem>Specialized XP</ComboBoxItem>
-
-                        <ComboBoxItem>Motorsports XP</ComboBoxItem>
-
-                        <ComboBoxItem>BeamXP</ComboBoxItem>
-                        <ComboBoxItem>Vouchers</ComboBoxItem>
-
+                        <ComboBoxItem>Freestyle XP</ComboBoxItem>
 
                     </ComboBox>
 
@@ -163,8 +162,6 @@
                              materialDesign:HintAssist.Hint="Number">
 
                     </TextBox>
-
-
 
                     <!--Apply Button-->
                     <Button Canvas.Bottom="20" Canvas.Right="20" Width="100" 
@@ -184,8 +181,6 @@
                         </Button.Effect>
                     </Button>
                 </Canvas>
-
-
 
                 <!--Exit Button-->
                 <Button Content="×" Canvas.Left="359" 

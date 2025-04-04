@@ -1,15 +1,15 @@
 ﻿BCModZ
-1.0.0.0
+1.1.0.0
 
 winexe
 C#
 .cs
-C:\Users\olive\Documents\BCModZ\BCModZ-for-github\bcmodz\BeamCareerCheat\obj\Release\net8.0-windows\
+C:\Users\olive\Documents\GitHub\BCModZ\bcmodz\BeamCareerCheat\obj\Release\net8.0-windows\
 BeamCareerCheat
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-C:\Users\olive\Documents\BCModZ\BCModZ-for-github\bcmodz\BeamCareerCheat\App.xaml
+C:\Users\olive\Documents\GitHub\BCModZ\bcmodz\BeamCareerCheat\App.xaml
 11407045341
 11203437049
 13-1777788665

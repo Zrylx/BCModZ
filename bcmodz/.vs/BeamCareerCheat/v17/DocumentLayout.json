@@ -1,9 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\",
+  "WorkspaceRootPath": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|c:\\users\\olive\\documents\\bcmodz\\bcmodz-for-github\\bcmodz\\beamcareercheat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|c:\\users\\olive\\documents\\github\\bcmodz\\bcmodz\\beamcareercheat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|solutionrelative:beamcareercheat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|c:\\users\\olive\\documents\\github\\bcmodz\\bcmodz\\beamcareercheat\\beamcareercheat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|solutionrelative:beamcareercheat\\beamcareercheat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|c:\\users\\olive\\documents\\github\\bcmodz\\bcmodz\\beamcareercheat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{269C359B-1F53-46EF-8F35-E33B2E47752D}|BeamCareerCheat\\BeamCareerCheat.csproj|solutionrelative:beamcareercheat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -14,18 +25,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAALcAAAAAAAAAAAAqwNIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-04T11:30:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeamCareerCheat",
+              "DocumentMoniker": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
+              "RelativeDocumentMoniker": "BeamCareerCheat\\BeamCareerCheat.csproj",
+              "ToolTip": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
+              "RelativeToolTip": "BeamCareerCheat\\BeamCareerCheat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T11:30:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BeamCareerCheat\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\MainWindow.xaml",
               "RelativeToolTip": "BeamCareerCheat\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T07:00:09.007Z",
+              "WhenOpened": "2025-04-04T10:49:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BeamCareerCheat\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BeamCareerCheat\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:49:12.02Z",
               "EditorCaption": ""
             }
           ]

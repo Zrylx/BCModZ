@@ -1,0 +1,6 @@
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\BCModZ.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\BCModZ.dll.config
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\MaterialDesignColors.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\MaterialDesignThemes.Wpf.pdb
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\MaterialDesignThemes.Wpf.xml
+C:\Users\olive\Documents\BCModZ\BCModZ-V-1.1\bcmodz\BeamCareerCheat\bin\Release\net8.0-windows\win-x64\publish\BCModZ.exe

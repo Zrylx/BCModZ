@@ -1,0 +1,3 @@
+C:\Users\olive\Documents\GitHub\BCModZ\bcmodz\BeamCareerCheat\obj\Release\net48\BeamCareerCheat.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\GitHub\BCModZ\bcmodz\BeamCareerCheat\obj\Release\net48\Interop.IWshRuntimeLibrary.dll
+C:\Users\olive\Documents\GitHub\BCModZ\bcmodz\BeamCareerCheat\obj\Release\net48\BeamCareerCheat.csproj.ResolveComReference.cache

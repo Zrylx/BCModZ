@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj": {}
+    "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj": {
+    "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
+        "projectUniqueName": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
         "projectName": "BCModZ",
-        "projectPath": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
+        "projectPath": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\BeamCareerCheat.csproj",
         "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olive\\Documents\\BCModZ\\BCModZ-for-github\\bcmodz\\BeamCareerCheat\\obj\\",
+        "outputPath": "C:\\Users\\olive\\Documents\\GitHub\\BCModZ\\bcmodz\\BeamCareerCheat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,12 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )",
+              "autoReferenced": true
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -67,6 +73,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -76,6 +96,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
