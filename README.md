@@ -40,11 +40,10 @@
 
 ### 🟣 **Getting Started**
 1. **Backup**: Before performing any modifications to your career profile, please back up the **"saves"** folder located at: ```C:\Users\[your-username]\AppData\Local\BeamNG.drive\0.34\settings\cloud```. 
-2. **Download**: Grab the latest installer release from the [releases page](https://github.com/Zrylx/BCModZ/releases) or clone this repository and build the solution.
-3. **Run the installer**: Simply run through the installation steps displayed in the installer wizard.
-4. **Run the software**: Open the ```.exe``` file to launch the software. 
-5. **Enter career profile**: Type in the name of the career profile you would like to modify in the text box and click next.
-6. **Most importantly**: Have fun! 🚀
+2. **Download**: Grab the latest release from the [releases page](https://github.com/Zrylx/BCModZ/releases) or clone this repository and build the solution.
+3. **Run the software**: Open the ```.exe``` file to launch the software. 
+4. **Enter career profile**: Type in the name of the career profile you would like to modify in the text box and click next.
+5. **Most importantly**: Have fun! 🚀
  
 ### 🟣 **How It Works**
 BCModZ works by **directly modifying** the ```playerAddtributes.json``` file, which is where BeamNG.drive stores all your career mode progress. This file contains information about things like your money, XP, and vouchers. If something goes wrong during the modification process, BCModZ will notify you and always log the issue so you know what happened.
